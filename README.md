@@ -8,3 +8,5 @@ Nishit Patel - 300984112
 Ozgun Ceci - 301037034
 
 Shiu Tung (James) Chan - 300604380
+
+Hassan Shabbir - 301031788

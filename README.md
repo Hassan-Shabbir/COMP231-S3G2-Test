@@ -1,2 +1,2 @@
 # COMP231-S3G2-Test
-## This is a subheader
+## Enter your Name and Student ID
